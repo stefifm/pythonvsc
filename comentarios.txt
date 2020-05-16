@@ -1,0 +1,5 @@
+Asignar un valor: variable=10
+Visualizar valor: print(variable)
+cargar desde teclado una cadena: variable=input("mensaje")
+cargar un entero desde teclado: variable=int(input("numero entero"))
+cargar un flotante (decimal) desde teclado: variable=float(input("numero decimal"))
